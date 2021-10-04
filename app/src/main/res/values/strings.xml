@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallNetworkApi</string>
+    <string name="get_response">Get Response</string>
+</resources>
